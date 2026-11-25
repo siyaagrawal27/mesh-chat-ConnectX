@@ -20,6 +20,9 @@ No internet. No cloud servers. No subscriptions. Just direct device-to-device co
 
 Our goal is to create a simple, beautiful, and reliable messaging experience that works even when traditional connectivity is unavailable.
 
+🌐 Live Website
+Try the website: https://mesh-chat-connectx.lovable.app/
+
 ## ✨ Key Features
 
 - 📡 **Bluetooth Discovery** — Discover nearby Bluetooth-enabled devices.
